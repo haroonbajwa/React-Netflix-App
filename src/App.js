@@ -26,7 +26,7 @@ function App() {
     <>
 
     <h1 className="heading">List of top 5 Netflix Series in 2020</h1>
-    {Sdata.map(ncard)};
+    {Sdata.map(ncard)}
 
     </>
   );
